@@ -1,0 +1,4 @@
+5,Radiador,7800.00,Importado,TRW
+8,Burro,9500.00,Nacional,Valeo
+18,Cnetrar,15600.00,Nacional,Sachs
+7,Piñon,6000.00,Importado,Valeo

@@ -1,0 +1,20 @@
+Implementar la siguiente funcionalidad
+- La aplicación debe permitir grabar en la tabla "Repuestos" los datos ingresados 
+  por el usuario en la interfaz.
+- La base de datos se llama "AutoRep.mdb"
+- La base contiene las tablas "Marcas" y "Repuestos"
+- Al iniciar la ejecución el comboBox de Marca debe mostrar los nombres de todas
+  las marcas registradas en la tabla "Marcas".
+- Antes de grabar debe controlar que el valor del campo "Numero" no exista en la tabla
+  de Repuestos y que los demás datos sean correctos.
+- El botón "Grabar" agrega un nuevo registro a la tabla "Repuestos" si se cumplen las
+  condiciones anteriores.
+- Después de grabar el formulario debe volver al estado inicial.
+- El botón de Consultar debe mostrar en la grilla los datos de todos los repuestos 
+  grabados en la tabla y además debe calcular y mostrar la suma de todos los importes
+- También deberá crear un archivo de texto denominado "Reporte.txt" que contenga la 
+  misma información mostrada en la grilla, ocupando una línea del archivo para cada
+  repuesto y separando las columnas con una coma.
+- El archivo se generará siempre con el mismo nombre y deberá sobreescribirse si ya 
+  existe otro previamente generado.
+
